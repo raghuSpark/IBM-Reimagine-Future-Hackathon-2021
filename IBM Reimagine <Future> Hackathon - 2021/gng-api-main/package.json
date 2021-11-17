@@ -1,0 +1,29 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "This is a intro-to-node project",
+  "main": "index.js",
+  "engines": {
+    "node": "14.15.1",
+    "npm": "8.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "ibm_db": "^2.8.0",
+    "ibm-cos-sdk": "^1.11.0",
+    "ibmcloud-appid": "^6.2.2",
+    "nodemailer": "^6.7.0",
+    "passport": "^0.5.0",
+    "superheroes": "^3.0.0",
+    "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
