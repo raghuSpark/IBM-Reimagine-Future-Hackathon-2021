@@ -17,7 +17,7 @@
     "fs": "^0.0.1-security",
     "ibm_db": "^2.8.0",
     "ibm-cos-sdk": "^1.11.0",
-    "ibmcloud-appid": "^6.2.2",
+    "ibmcloud-appid": "^6.3.1",
     "nodemailer": "^6.7.0",
     "passport": "^0.5.0",
     "superheroes": "^3.0.0",
